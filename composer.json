@@ -1,0 +1,21 @@
+{
+    "name": "diegovilarinho/on-hand",
+    "autoload": {
+        "psr-4": {
+            "Onhand\\": "src/"
+        }
+    },
+    "require": {
+        "laravel/framework": "~5.4",
+        "optimus/architect": "~1.0"
+    },
+    "require-dev": {
+        "mockery/mockery": "0.9.*",
+        "orchestra/testbench": "~3.1",
+        "phpunit/phpunit": "~4.7",
+        "satooshi/php-coveralls": "dev-master@dev"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "license": "MIT"
+}
