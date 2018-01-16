@@ -1,5 +1,5 @@
 {
-    "name": "diegovilarinho/on-hand",
+    "name": "send4store/on-hand",
     "autoload": {
         "psr-4": {
             "Onhand\\": "src/"
